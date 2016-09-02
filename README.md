@@ -8,3 +8,9 @@ Este proyecto consta del programa y de una libreria personal (capa.c) con mis ru
 Está escrito en C Ansi, compatible con Turbo C 2.0 de Borland para MS-DOS.
 
 bibliotec_capa_EXE.zip contiene el .exe compilado (bibliotec_capa.exe)
+
+
+Fecha Inicio -> 26/04-1999
+Fecha Final -> 01/06/1999
+Lenguaje: C
+Proyecto de fin de curso (98-99)
