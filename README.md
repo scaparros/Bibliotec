@@ -11,6 +11,9 @@ bibliotec_capa_EXE.zip contiene el .exe compilado (bibliotec_capa.exe)
 
 
 Fecha Inicio -> 26/04-1999
+
 Fecha Final -> 01/06/1999
+
 Lenguaje: C
+
 Proyecto de fin de curso (98-99)
